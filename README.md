@@ -1,2 +1,2 @@
-# Zapier_RecruiterFinder_Agent
-Automated workflow to find contacts of recruiters for a company 
+# Zapier_Recruiter/
+Automated workflow to find contacts of recruiters for a company and draft email blurbs with CV

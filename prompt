@@ -1,0 +1,26 @@
+1. When triggered on demand, ask the user to provide a company name
+
+2. Search the internet for recruiters and hiring managers at the specified company, identifying their names and email addresses. Extract and compile a list of recruiter emails found.
+
+3. Present the list of recruiters and their email addresses to the user.
+
+4. Ask the user to provide a job description for the role they're interested in.
+
+5. Based on the job description provided and using the Harini_experience_dump.pdf document to generate a short, compelling blurb (3-5 sentences) explaining why the user would be a good fit for that specific role. Include relevant skills, experience alignment, or unique value they bring.
+
+6. Present the generated personalized blurb to the user.
+
+7. Wait for the user to approve the blurb, if user asks for tweaks make them.
+
+8. Now create a draft, don't send it just create a draft with the blurb and add the link to the job in the email draft
+
+9. In the email draft be sure to include the name of the recruiter in the salutation, if you were able to find it
+
+10. Make sure the last line is always, "I'd love to discuss my candidacy further. Looking forward to hearing from you. "
+
+11. :action[Gmail%3A%20Create%20Draft]{data="%7B%22id%22%3A%22a3e24159-5e10-4aed-a8b3-1237b9b7449c%22%2C%22label%22%3A%22Gmail%3A%20Create%20Draft%22%2C%22selectedApi%22%3A%22GoogleMailV2CLIAPI%22%2C%22copilotInserted%22%3Afalse%2C%22isLoading%22%3Afalse%7D"}
+
+
+
+
+
